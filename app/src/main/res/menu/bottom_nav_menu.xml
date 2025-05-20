@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Фильмы"
+        android:icon="@drawable/ic_push_clapper" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Настроение"
+        android:icon="@drawable/ic_push_star" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Избранное"
+        android:icon="@android:drawable/btn_star_big_on" />
+
+</menu>
